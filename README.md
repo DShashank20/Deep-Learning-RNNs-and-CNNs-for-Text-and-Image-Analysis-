@@ -6,12 +6,6 @@ ID: 700781569
 
 ---
 
-# Text Generation, Sentiment Analysis, Convolution Operations & Feature Extraction
-
-This repository contains a Python project developed using **Google Colab**, **TensorFlow/Keras**, and **OpenCV**. The project covers deep learning solutions across Natural Language Processing (NLP) and Computer Vision (CV), including text generation with LSTMs, sentiment classification on IMDB reviews, custom 2D convolution operations, and Sobel edge detection.
-
----
-
 ---
 
 ## 🛠 Technologies Used
