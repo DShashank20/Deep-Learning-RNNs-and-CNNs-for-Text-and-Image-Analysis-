@@ -86,9 +86,6 @@ ID: 700781569
 * $5 \times 5$ Input matrix (values from 1 to 25).
 * $3 \times 3$ Laplacian/Edge Filter Kernel:
 
-$$\begin{bmatrix} 0 & 1 & 0 \\ 1 & -4 & 1 \\ 0 & 1 & 0 \end{bmatrix}$$
-
-
 
 
 * **Evaluated Configurations:**
